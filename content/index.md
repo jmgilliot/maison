@@ -1,7 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Mes petites affaires
 ---
 
-This was  a blank Quartz installation.
+On commence à avoir quelque chose
+
 Retrouvez [[Mes recettes]]
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
