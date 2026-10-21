@@ -3,5 +3,5 @@ title: Welcome to Quartz
 ---
 
 This was  a blank Quartz installation.
-with new [[Cuisine]]
+Retrouvez [[Mes recettes]]
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

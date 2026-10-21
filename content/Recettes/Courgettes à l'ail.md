@@ -1,4 +1,4 @@
-1. Couper les [[Courgettes]] en morceaux 
+1. Couper les [[courgettes]] en morceaux 
 2. Saupoudrer de thym
 3. Couper l'ail en petits morceaux
 4. Merttre de l'huile dans une cocotte
