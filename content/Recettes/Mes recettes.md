@@ -1,2 +1,3 @@
 Quelques recettes
-* [[Courgettes à l'ail]]*
+* [[Courgettes à l'ail]]
+* [[Bœuf aux poivrons]]
